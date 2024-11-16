@@ -1,17 +1,19 @@
-## Hi there 👋
+## Hi Guys 👋 🙋🏻‍♂️
+👨🏻‍💻
+
 <a href="ht">
   <img width="100%" src="https://www.youtube.com/@arduinoland12/featured">
 </a>
 
 ## **Biography**
-
-I am 12 years old and I am interested in python, mblock, scratch, arduino. code.org, I studied at Serçe Academy. I made it to the world finals in the international STEM Olympics software field. I am improving myself in areas such as Arduino, Artificial intelligence and Raspberry Pi.
+👨🏻‍💻
+I am 12 years old and I am interested in python, mblock, scratch, arduino. Code.org, I studied at Serçe Academy. I made it to the world finals in the international STEM Olympics software field. I am improving myself in areas such as Arduino, Artificial intelligence and Raspberry Pi.
 
 
 
 ## **Support my work:**
 
-## **Learn Data Science for FREE:**
+## **This my Youtube and Github channel:**
 [![YouTube](https://www.youtube.com/@arduinoland12/featured)
 [![GitHub](https://github.com/CEMOYZC/)
 
