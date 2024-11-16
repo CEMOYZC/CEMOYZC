@@ -20,5 +20,4 @@ I am 12 years old and I am interested in python, mblock, scratch, arduino. Code.
 ## **And this my Github adress:**
 [![GitHub](https://github.com/CEMOYZC/)
 
-##  **Learn Python for FREE:**
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&style=social&logo=python&logoColor=white)](https://www.youtube.com/playlist?list=PL2WsO1N8GK8vMMPQaux9PZaAXBGV7absc)
+## **To contact me : cemoyzc421@gmail.com See you letter Bye!!😀**
