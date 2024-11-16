@@ -15,7 +15,7 @@ I am 12 years old and I am interested in python, mblock, scratch, arduino. Code.
 ## **Support my work:**
 
 ## **This my Youtube and Github adress:**
-[![YouTube](https://www.youtube.com/@arduinoland12/featured)
+[![YouTube](https://www.youtube.com/@arduinoland12/)
 [![GitHub](https://github.com/CEMOYZC/)
 
 ##  **Learn Python for FREE:**
