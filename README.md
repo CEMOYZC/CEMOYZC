@@ -1,16 +1,21 @@
 ## Hi there 👋
+<a href="ht">
+  <img width="100%" src="https://www.youtube.com/@arduinoland12/featured">
+</a>
 
-<!--
-**CEMOYZC/CEMOYZC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## **Biography**
 
-Here are some ideas to get you started:
+I am 12 years old and I am interested in python, mblock, scratch, arduino. code.org, I studied at Serçe Academy. I made it to the world finals in the international STEM Olympics software field. I am improving myself in areas such as Arduino, Artificial intelligence and Raspberry Pi.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## **Support my work:**
+
+## **Learn Data Science for FREE:**
+[![YouTube](https://www.youtube.com/@arduinoland12/featured)
+[![GitHub](https://github.com/CEMOYZC/)
+
+##  **Learn Python and R for FREE:**
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&style=social&logo=python&logoColor=white)](https://www.youtube.com/playlist?list=PL2WsO1N8GK8vMMPQaux9PZaAXBGV7absc)
+[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&style=social&logo=r&logoColor=white)](https://www.youtube.com/playlist?list=PL2WsO1N8GK8v9xaNwbR1tiGH9lO4epcjg)
+
