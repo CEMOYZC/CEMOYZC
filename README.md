@@ -2,7 +2,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38C2FF&width=435&lines=My+Name+is+Cemo+Yaz%C4%B1c%C4%B1+;I+am+Game+Programmer+and;Game+Development;Sphinx+of+black+quartz%2C+judge+my+vow)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E28F7&width=435&lines=My+name+is+Cemo+Yaz%C4%B1c%C4%B1;I+am+Game+Development+and;Game+Programmer+%3A))](https://git.io/typing-svg)
 
 
 
